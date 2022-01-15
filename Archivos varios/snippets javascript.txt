@@ -1,0 +1,11 @@
+{
+	"Comentario":{
+		"prefix": "/*",
+		"body": "/*\n$1\n*/"
+	},
+
+	"imprimir":{
+		"prefix": "con",
+		"body": "console.log( $1 );"
+	}
+}

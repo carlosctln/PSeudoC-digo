@@ -1,0 +1,5 @@
+para crear archivos gracias al plugin AdvancedNewFile
+si es un archivo 
+ctrl + alt + N
+si es carpeta y archivo
+carpeta/archivo
